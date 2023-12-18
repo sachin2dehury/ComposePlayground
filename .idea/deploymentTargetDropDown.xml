@@ -2,19 +2,19 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="FilterChipDemo">
+      <entry key="Demo">
         <State />
       </entry>
-      <entry key="FloatingActionButtonDemo">
+      <entry key="SuggestionChipDemo">
         <State />
       </entry>
-      <entry key="FloatingActionButtonDemo (1)">
+      <entry key="SurfaceDemo">
         <State />
       </entry>
-      <entry key="IconToggleButtonDemo">
+      <entry key="TextButtonDemo">
         <State />
       </entry>
-      <entry key="InputChipDemo">
+      <entry key="TimePickerDemo">
         <State />
       </entry>
       <entry key="app">

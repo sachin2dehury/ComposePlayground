@@ -10,6 +10,6 @@ import androidx.compose.ui.tooling.preview.Preview
 fun ElevatedSuggestionChipDemo() {
     ElevatedSuggestionChip(
         onClick = { /* Do something! */ },
-        label = { Text("Suggestion Chip") }
+        label = { Text("Suggestion Chip") },
     )
 }

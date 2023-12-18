@@ -30,11 +30,11 @@ fun FilterChipDemo() {
                 Icon(
                     imageVector = Icons.Filled.Done,
                     contentDescription = "Localized Description",
-                    modifier = Modifier.size(FilterChipDefaults.IconSize)
+                    modifier = Modifier.size(FilterChipDefaults.IconSize),
                 )
             }
         } else {
             null
-        }
+        },
     )
 }
